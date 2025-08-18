@@ -2,9 +2,9 @@
 - 👀 I’m interested in Coding, cyber security 
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: Insta- ananta__.4886
+- 📫 How to reach me: Insta- _a.nanta_
 - 😄 Pronouns:Him
-- ⚡ Fun fact:
+- ⚡ Fun fact: 
 - 
   
 
