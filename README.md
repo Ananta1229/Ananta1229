@@ -74,8 +74,7 @@ Currently, I'm focused on strengthening my Data Structures & Algorithms skills, 
 
 I'm always open to connecting with developers, collaborating on projects, and learning new things.
 
-- **LinkedIn:** [Connect with me]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/ananta-talukdar-635206311/))
-- 
+- **LinkedIn:** [Connect with me] ([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/ananta-talukdar-635206311/))
 
 ---
 
